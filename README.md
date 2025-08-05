@@ -16,19 +16,27 @@ when it start ask to order room num to send robot to it and say in its way to yo
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a52bcd88-d1d1-46c2-abc2-bfab2ff18204" />
 
 
+
 another one order after little while so it find another available robot to send and choose best short path to arrive as shown with robot num
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d91d569-27b1-46f6-9d3d-a9697933aa98" />
 
+
+
 when robot arrive to room ask patient for order place to get what he need as 
 
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/b9177b18-5bfb-4690-a668-d5ecb9de0402" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b9177b18-5bfb-4690-a668-d5ecb9de0402" />
+
+
 
 and again robot select best short available path to place of order as 
 
-<img width="1262" height="985" alt="image" src="https://github.com/user-attachments/assets/c16ce3b6-5965-4c89-95f3-57f894921ccb" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c16ce3b6-5965-4c89-95f3-57f894921ccb" />
 
-and also robot always calculate their battery power to save some for station charge path and notify that in station and when finish notify with available status waiting next orders
+
+
+And also robot always calculate their battery power to save some for station charge path and notify that in station and when finish notify with available status waiting next orders
+
 
 # Finally
 This project is a simple simulation in a hospital with very limited capabilities. We hope to develop it to be closer to being realistic than imaginative and applicable to reality.
