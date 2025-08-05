@@ -9,6 +9,15 @@ The goal of this project is to develop a system of three algorithms that control
 
 Overall, this project combines these three algorithms to create an efficient and automated system for controlling robots in a hospital. The algorithms work in tandem to select the most suitable robot, guide it through the hospital using the shortest path, and recharge it when necessary. By implementing these algorithms, the system can enhance the productivity and effectiveness of the robot workforce in a hospital environment, facilitating various tasks such as transportation of goods and equipment, cleaning, and assistance to healthcare professionals.
 
+# Results 
+
+when it start ask to order room num to send robot to it and say in its way to you and choose best short path to arrive as shown with robot num
+
+<img width="300" height="329" alt="image" src="https://github.com/user-attachments/assets/bda16bb6-0ad6-4c13-86c9-920a2528b89c" />
+
+another one order after little while so it find another available robot to send and choose best short path to arrive as shown with robot num
+
+
 
 # Finally
 This project is a simple simulation in a hospital with very limited capabilities. We hope to develop it to be closer to being realistic than imaginative and applicable to reality.
